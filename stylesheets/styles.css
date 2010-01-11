@@ -67,8 +67,8 @@ body{text-align:center;}
       text-align:center;
     }
       #primary_navigation li#homepage_link a{
-        background:url('../images/icons/tripple-clef.gif') no-repeat center left;
-        padding-left:30px;
+        background:url('../images/icons/tripple-clef.gif') no-repeat 6px center;
+        padding-left:36px;
       }
 
 /*active pages*/
