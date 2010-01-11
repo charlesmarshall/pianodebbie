@@ -47,4 +47,5 @@ input,button,textarea,select{*font-size:100%;}
 }
   #primary_navigation{
     background:url('../images/icons/tripple-clef.gif') no-repeat center left;
+    padding-left:30px;
   }
