@@ -110,11 +110,13 @@ body.homepage li#homepage_link{background:#b5252b;}
   background:#b5252b url('../images/backgrounds/extras.jpg') repeat-x top left;
   padding:12px;
 }
+  #extras ul{background:url('../images/icons/semi-quaver.gif') no-repeat top left;}
   #extras li{
     list-style-type:none;
     color:white;
     font-size:108%;
     margin:0 0 10px 0;
+    text-align:right;
   }
   #extras li a{color:white;}
   #extras li strong{color:white; font-weight:bold;}
