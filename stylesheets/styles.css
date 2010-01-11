@@ -45,6 +45,11 @@ h1{
   font-size:277%;
   line-height:1.6em;
 }
+h2{font-size:232%;margin-bottom:15px;}
+h3{font-size:197%;margin-bottom:10px;}
+h4{font-size:131%;margin-bottom:5px;}
+h5{font-size:116%;font-weight:bold;}
+
 .row{
   width:84%;
   padding:0 8%;
