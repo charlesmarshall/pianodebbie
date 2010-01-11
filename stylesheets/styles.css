@@ -124,4 +124,7 @@ body.homepage li#homepage_link{background:#b5252b;}
   #extras li strong{color:white; font-weight:bold;}
   
 /** FOOTER **/
-#footer{padding:0;}
+#footer{
+  padding:10px 0;
+  border-top:1px solid #b5252b;
+}
