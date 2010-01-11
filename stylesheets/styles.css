@@ -53,6 +53,7 @@ h5{font-size:116%;font-weight:bold;}
 .row{
   width:84%;
   padding:0 8%;
+  margin:0 auto;
 }
 
 
@@ -121,3 +122,6 @@ body.homepage li#homepage_link{background:#b5252b;}
   }
   #extras li a{color:white;}
   #extras li strong{color:white; font-weight:bold;}
+  
+/** FOOTER **/
+#footer{padding:0;}
