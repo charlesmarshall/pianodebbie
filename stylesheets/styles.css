@@ -63,7 +63,7 @@ body{text-align:center;}
       color:white;
       display:block;
       text-decoration:none;
-      padding:16px 6px;
+      padding:16px 12px;
       text-align:center;
     }
       #primary_navigation li#homepage_link a{
@@ -73,3 +73,9 @@ body{text-align:center;}
 
 /*active pages*/
 body.homepage li#homepage_link{background:#b5252b;}
+
+
+/** HOME PAGE **/
+#homepage_introduction{
+  padding:15px 0;
+}
