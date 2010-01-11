@@ -28,3 +28,20 @@ input,button,textarea,select{*font-size:100%;}
 /* End hide from IE Mac */ 
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 
+/** **/
+*{
+  text-align:left;
+  font-family:tahoma, arial;
+  color:black;  
+}
+
+/** layout **/
+.row{
+  width:84%;
+  padding:4px 8%;
+}
+
+/** NAVIGATION **/
+#navigation{
+  background:#b5252b url('images/backgrounds/navigation.gif') repeat-x top left;
+}
