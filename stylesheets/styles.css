@@ -116,3 +116,5 @@ body.homepage li#homepage_link{background:#b5252b;}
     font-size:108%;
     margin:0 0 10px 0;
   }
+  #extras li a{color:white;}
+  #extras li strong{color:white; font-weight:bold;}
