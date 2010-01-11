@@ -102,4 +102,5 @@ body.homepage li#homepage_link{background:#b5252b;}
   float:right;
   margin:0 0 30px 30px;
   background:#b5252b url('../images/backgrounds/extras.jpg') repeat-x top left;
+  padding:12px;
 }
