@@ -85,3 +85,7 @@ body.homepage li#homepage_link{background:#b5252b;}
   padding-top:15px;
   padding-bottom:15px;  
 }
+  #homepage_introduction .feature_image{
+    float:left;
+    margin:5px 20px 15px 0;
+  }
