@@ -43,7 +43,7 @@ body{text-align:center;}
 /** layout **/
 .row{
   width:84%;
-  padding:4px 8%;
+  padding:0 8%;
 }
 
 /** NAVIGATION **/
@@ -52,18 +52,23 @@ body{text-align:center;}
 }
   #primary_navigation{
     background:url('../images/icons/tripple-clef.gif') no-repeat center left;
-    padding:10px 30px;
+    padding:0 30px;
   }
     #primary_navigation li{
       display:block;
       float:left;
       margin:0 12px 0 0;
       text-align:center;
+      font-size:116%;
+      letter-spacing:0.8px;
     }
     #primary_navigation a{
       color:white;
       display:block;
       text-decoration:none;
-      padding:2px 4px;
+      padding:10px 4px;
       text-align:center;
     }
+
+/*active pages*/
+body.homepage li#homepage_link{background:#b5252b;}
