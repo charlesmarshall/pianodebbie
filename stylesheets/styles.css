@@ -91,4 +91,15 @@ body.homepage li#homepage_link{background:#b5252b;}
   }
   #homepage_introduction h1{margin-top:40px;}
   
-  
+
+/** MAIN CONTENT **/
+#content p{
+  font-size:108%;
+  line-height:1.5em;
+}
+
+#extras{
+  float:right;
+  margin:0 0 30px 30px;
+  background:#b5252b url('../images/backgrounds/extras.jpg') repeat-x top left;
+}
