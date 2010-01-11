@@ -77,5 +77,6 @@ body.homepage li#homepage_link{background:#b5252b;}
 
 /** HOME PAGE **/
 #homepage_introduction{
-  padding:15px 0;
+  padding-top:15px;
+  padding-bottom:15px;  
 }
