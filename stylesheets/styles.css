@@ -45,6 +45,7 @@ h1{
   font-size:277%;
   line-height:1.6em;
 }
+h1.page_title{padding-top:15px;}
 h2{font-size:232%;margin-bottom:15px;}
 h3{font-size:197%;margin-bottom:10px;}
 h4{font-size:131%;margin-bottom:5px;}
