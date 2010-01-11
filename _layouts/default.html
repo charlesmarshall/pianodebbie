@@ -28,8 +28,19 @@
   
   
   <div class='row clearfix' id='content'>
+    {% if page.extra_content %}
+    <div id='extras' class='extra_content'>
+      <ul>
+        {% for ex in page.extra_content %}
+        <li>{{ ex }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    
     {{ content }}
   </div>
+  
   
   <script src='http://www.google.com/jsapi'  type='text/javascript'></script>	
   <script type='text/javascript'>                      
