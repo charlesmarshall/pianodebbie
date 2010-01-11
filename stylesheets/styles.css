@@ -45,3 +45,6 @@ input,button,textarea,select{*font-size:100%;}
 #navigation{
   background:#b5252b url('images/backgrounds/navigation.gif') repeat-x top left;
 }
+  #primary_navigation{
+    background:url('image/icons/tripple-clef.gif') no-repeat center left;
+  }
