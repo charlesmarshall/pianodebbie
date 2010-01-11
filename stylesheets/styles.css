@@ -95,7 +95,8 @@ body.homepage li#homepage_link{background:#b5252b;}
 /** MAIN CONTENT **/
 #content p{
   font-size:108%;
-  line-height:1.5em;
+  line-height:1.6em;
+  margin-bottom:15px;
 }
 
 #extras{
