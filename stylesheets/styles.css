@@ -64,7 +64,7 @@ h5{font-size:116%;font-weight:bold;}
 }
   #primary_navigation{}
     #primary_navigation li{
-      display:block;
+      display:inline-block;
       float:left;
       margin:0;
       text-align:center;
