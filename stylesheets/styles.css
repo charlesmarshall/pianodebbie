@@ -77,6 +77,7 @@ h5{font-size:116%;font-weight:bold;}
       text-decoration:none;
       padding:16px 12px;
       text-align:center;
+      line-height:1em;
     }
       #primary_navigation li#homepage_link a{
         background:url('../images/icons/tripple-clef.gif') no-repeat 6px center;
