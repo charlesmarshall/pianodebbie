@@ -1,0 +1,28 @@
+---
+layout: default
+title: Musical Games
+categories:
+- musical_games
+keywords:
+- piano
+- tutor
+- Birmingham UK
+- games
+- fun
+- learn with play
+- keyboard
+- South Birmingham
+- accompanist
+description: "A list of recommend musical and piano related flash games to get you started. All games require Flash player version 8 upwards."
+---
+
+<div class='row games clearfix'>
+{% for post in site.categories.games %}
+  <div class='game'>
+  </div>
+  {% assign mod_row = forloop.index0 / 2 %}
+  {% if %}
+{% endfor %}
+</div>
+
+<p class='small'>All games require Flash player version 8 upwards</p>
