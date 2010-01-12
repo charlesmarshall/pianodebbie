@@ -18,12 +18,11 @@ description: "A list of recommend musical and piano related flash games to get y
 
 <div class='full game_row clearfix'>
 {% for post in site.categories.games %}
-  {% assign mod_row = forloop.index0 / 3 %}
   <div class='game {{ mod_row }}'>
     {{ post.content }}
   </div>
   
-  {% if mod_row == 1 %}</div><div class='full game_row clearfix'>{% endif %}
+  {% if forloop.index0 == 2 || forloop.index0 == 5 || forloop.index0 == 8 %}</div><div class='full game_row clearfix'>{% endif %}
 {% endfor %}
 </div>
 
