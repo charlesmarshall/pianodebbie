@@ -86,6 +86,7 @@ h5{font-size:116%;font-weight:bold;}
 
 /*active pages*/
 body.homepage li#homepage_link,
+body.musical_games li#games_link,
 body.repertoire li#repertoire_link{background:#b5252b;}
 
 /** HOME PAGE **/
