@@ -16,14 +16,14 @@ keywords:
 description: "A list of recommend musical and piano related flash games to get you started. All games require Flash player version 8 upwards."
 ---
 
-<div class='full game clearfix'>
+<div class='full game_row clearfix'>
 {% for post in site.categories.games %}
   {% assign mod_row = forloop.index0 / 3 %}
   <div class='game {{ mod_row }}'>
     {{ post.content }}
   </div>
   
-  {% if mod_row == 1 %}</div><div class='full games clearfix'>{% endif %}
+  {% if mod_row == 1 %}</div><div class='full game_row clearfix'>{% endif %}
 {% endfor %}
 </div>
 
