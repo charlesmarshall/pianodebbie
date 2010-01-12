@@ -145,11 +145,12 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   .game h3 a{text-decoration:none;}
   
 /*music list*/
-ul.notes li{
+#content ul.notes li{
   background:url('../images/icons/quaver.gif') left 2px no-repeat;
   font-size:108%;
   padding:8px 0 8px 22px;
   margin-bottom:0;
+  margin-left:0;
 }
 /** FOOTER **/
 #footer{
