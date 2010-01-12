@@ -132,6 +132,8 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   width:32%;
   text-align:center;
 }
+  .game h3{text-align:center;margin-bottom:8px;}
+  .game h3 a{text-decoration:none;}
   
 /** FOOTER **/
 #footer{
