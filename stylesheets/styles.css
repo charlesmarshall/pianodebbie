@@ -134,6 +134,7 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   #extras li a{color:white;}
   #extras li strong{color:white; font-weight:bold;}
 
+/*games*/
 .game{
   float:left;
   width:32%;
@@ -143,6 +144,13 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   .game h3{text-align:center;margin-bottom:8px;}
   .game h3 a{text-decoration:none;}
   
+/*music list*/
+ul.notes li{
+  background:url('../images/icons/quaver.gif') left 2px;
+  font-size:108%;
+  padding:8px 0 8px 22px;
+  margin-bottom:0;
+}
 /** FOOTER **/
 #footer{
   padding:10px 0;
