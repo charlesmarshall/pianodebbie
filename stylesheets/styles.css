@@ -128,7 +128,8 @@ body.repertoire li#repertoire_link{background:#b5252b;}
 
 .game{
   float:left;
-  margin-right:5px;
+  width:32%;
+  text-align:center;
 }
   
 /** FOOTER **/
