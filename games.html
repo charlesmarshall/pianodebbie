@@ -21,6 +21,7 @@ description: "A list of recommend musical and piano related flash games to get y
   <div class='game g{{ forloop.index0 }}'>
     <h3><a href='{{ post.swf }}'>{{ post.title }}</a></h3>
     {{ post.content }}
+    <p><a href='{{ post.swf }}' title='open in new window' target="_new">Play at full size!</a></p>
   </div>
   
   {% if forloop.index0 == 2 || forloop.index0 == 5 || forloop.index0 == 8 %}</div><div class='full game_row clearfix'>{% endif %}
