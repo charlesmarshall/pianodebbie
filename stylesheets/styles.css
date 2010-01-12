@@ -51,6 +51,12 @@ h3{font-size:197%;margin-bottom:10px;}
 h4{font-size:131%;margin-bottom:5px;}
 h5{font-size:116%;font-weight:bold;}
 
+ul, ol{margin-bottom:15px;}
+li{position:relative;margin-bottom:5px;}
+#content ul li{margin-left:15px;}
+#content ol li{margin-left:25px;}
+
+
 strong{font-weight:bold;}
 .row{
   width:84%;
