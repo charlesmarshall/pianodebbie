@@ -125,6 +125,11 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   }
   #extras li a{color:white;}
   #extras li strong{color:white; font-weight:bold;}
+
+.game{
+  float:left;
+  margin-right:5px;
+}
   
 /** FOOTER **/
 #footer{
