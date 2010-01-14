@@ -153,6 +153,13 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   margin-bottom:0;
   margin-left:0;
 }
+
+/*reviews*/
+.review_row{
+  width:96%;
+  padding:10px 2%;
+  background:#FFACB8;
+}
 /** FOOTER **/
 #footer{
   padding:10px 0;
