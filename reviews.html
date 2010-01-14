@@ -15,4 +15,8 @@ keywords:
 description: "Reviews about Debbie Kaye from the people that know best; current and former students."
 ---
 
-Review copy...
+{% for post in site.categories.review %}
+<div class='full review_row review{{ forloop.index0 }}'>
+  {{ post.content }}
+</div>
+{% endfor %}
