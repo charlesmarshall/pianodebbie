@@ -94,7 +94,7 @@ strong{font-weight:bold;}
 
 /*active pages*/
 body.homepage li#homepage_link,
-body.musical_games li#game_link
+body.musical_games li#game_link,
 body.reviews li#review_link,
 body.repertoire li#repertoire_link{background:#b5252b;}
 
