@@ -158,9 +158,11 @@ body.repertoire li#repertoire_link{background:#b5252b;}
 .review_row{
   width:96%;
   padding:10px 2%;
-  background:#FFACB8;
   margin:15px auto;
 }
+  .review0{
+    background:#FFD9DC;
+  }
 /** FOOTER **/
 #footer{
   padding:10px 0;
