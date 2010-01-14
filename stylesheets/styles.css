@@ -68,7 +68,7 @@ strong{font-weight:bold;}
 
 /** NAVIGATION **/
 #navigation{
-  background:#b5252b url('../images/backgrounds/navigation.gif') repeat-x top left;
+  background:#b5252b url('/images/backgrounds/navigation.gif') repeat-x top left;
 }
   #primary_navigation{}
     #primary_navigation li{
@@ -88,7 +88,7 @@ strong{font-weight:bold;}
       line-height:1em;
     }
       #primary_navigation li#homepage_link a{
-        background:url('../images/icons/tripple-clef.gif') no-repeat 6px center;
+        background:url('/images/icons/tripple-clef.gif') no-repeat 6px center;
         padding-left:36px;
       }
 
@@ -120,10 +120,10 @@ body.repertoire li#repertoire_link{background:#b5252b;}
 #extras{
   float:right;
   margin:50px 0 30px 30px;
-  background:#b5252b url('../images/backgrounds/extras.jpg') repeat-x top left;
+  background:#b5252b url('/images/backgrounds/extras.jpg') repeat-x top left;
   padding:12px;
 }
-  #extras ul{background:url('../images/icons/semi-quaver.gif') no-repeat top left;}
+  #extras ul{background:url('/images/icons/semi-quaver.gif') no-repeat top left;}
   #extras li{
     list-style-type:none;
     color:white;
@@ -147,7 +147,7 @@ body.repertoire li#repertoire_link{background:#b5252b;}
   
 /*music list*/
 #content ul.notes li{
-  background:url('../images/icons/quaver.gif') left 2px no-repeat;
+  background:url('/images/icons/quaver.gif') left 2px no-repeat;
   font-size:108%;
   padding:8px 0 8px 22px;
   margin-bottom:0;
