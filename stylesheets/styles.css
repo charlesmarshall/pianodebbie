@@ -57,7 +57,8 @@ li{position:relative;margin-bottom:5px;}
 #content ol li{margin-left:25px;}
 
 
-strong{font-weight:bold;}
+strong,cite{font-weight:bold;}
+cite{font-style:italic;}
 .row{
   width:84%;
   padding:0 8%;
