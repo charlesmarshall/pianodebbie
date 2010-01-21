@@ -18,6 +18,6 @@ description: "Reviews about Debbie Kaye from the people that know best; current 
 {% for post in site.categories.review %}
 <div class='full review_row review{{ forloop.index0 }}'>
   <blockquote>{{ post.content }}</blockquote>
-  <cite>{{ post.author }}</cite>
+  <cite>- {{ post.author }}</cite>
 </div>
 {% endfor %}
