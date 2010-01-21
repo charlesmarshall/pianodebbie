@@ -9,11 +9,29 @@ title: Site Map
 	<changefreq>monthly</changefreq>
 	<priority>1</priority>
 </url>
+<url>
+	<loc>http://pianodebbie.co.uk/reviews.html</loc>
+	<lastmod>2010-01-21</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>http://pianodebbie.co.uk/repertoire.html</loc>
+	<lastmod>2010-01-20</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://pianodebbie.co.uk/games.html</loc>
+	<lastmod>2010-01-05</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.3</priority>
+</url>
 {% for page in site.posts %}
 <url>
 <loc>http://pianodebbie.co.uk{{ page.url }}</loc>
 <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
 <changefreq>monthly</changefreq>
-<priority>1</priority>
+<priority>0.8</priority>
 </url>
 {% endfor %}
