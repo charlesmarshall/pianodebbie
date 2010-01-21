@@ -5,4 +5,4 @@ category: review
 author: "Emily's Mum"
 ---
 
-<span>&ldquo;</span> We are very pleased with the progress Emily is making and it is great to see her enjoyment in playing grow. <span>&rdquo;</span>
+<span>&quote;</span> We are very pleased with the progress Emily is making and it is great to see her enjoyment in playing grow. <span>&quote;</span>
