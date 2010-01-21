@@ -5,4 +5,4 @@ category: review
 author: "Emily, age 9"
 ---
 
-Debbie is good at teaching. She never shouts, she is patient with me and she makes me work hard - in a good way! I enjoy my lessons because I like learning my pieces.
+<span>&ldquo;</span> Debbie is good at teaching. She never shouts, she is patient with me and she makes me work hard - in a good way! I enjoy my lessons because I like learning my pieces. <span>&rdquo;</span>
