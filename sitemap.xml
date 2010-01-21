@@ -1,0 +1,19 @@
+---
+layout: xml
+title: Site Map
+---
+
+<url>
+	<loc>http://pianodebbie.co.uk</loc>
+	<lastmod>2010-01-21</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>1</priority>
+</url>
+{% for page in site.posts %}
+<url>
+	<loc>http://pianodebbie.co.uk/{{ page.url }}</loc>
+	<lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>1</priority>
+</url>
+{% endfor %}
