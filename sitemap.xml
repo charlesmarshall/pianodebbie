@@ -11,7 +11,7 @@ title: Site Map
 </url>
 {% for page in site.posts %}
 <url>
-<loc>http://pianodebbie.co.uk/{{ page.url }}</loc>
+<loc>http://pianodebbie.co.uk{{ page.url }}</loc>
 <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
