@@ -5,4 +5,4 @@ category: review
 author: "Emily, age 9"
 ---
 
-<span>&quote;</span> Debbie is good at teaching. She never shouts, she is patient with me and she makes me work hard - in a good way! I enjoy my lessons because I like learning my pieces. <span>&quote;</span>
+<span>&quot;</span> Debbie is good at teaching. She never shouts, she is patient with me and she makes me work hard - in a good way! I enjoy my lessons because I like learning my pieces. <span>&quot;</span>
