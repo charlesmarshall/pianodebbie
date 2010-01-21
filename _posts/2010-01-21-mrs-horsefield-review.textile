@@ -2,10 +2,9 @@
 layout: post
 title: Mrs Horsefield Review
 category: review
+author: "Mrs Horsefield"
 ---
 
 My two children have gained confidence and enjoyment from the playing the piano. Debbie is exacting but teaches with humour and injects fun into the sometimes mundane process of mastering an instrument. 
 
 My eight year old has gone from being reluctant to practise to playing her grade one pieces at every opportunity!
-
-??Mrs Horsefield??
