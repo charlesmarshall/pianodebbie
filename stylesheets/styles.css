@@ -59,6 +59,10 @@ li{position:relative;margin-bottom:5px;}
 
 strong,cite{font-weight:bold;}
 cite{font-style:italic;}
+blockquote span{
+  font-weight:bold;
+  font-size:138.5%;
+}
 .row{
   width:84%;
   padding:0 8%;
